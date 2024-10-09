@@ -14,6 +14,7 @@ The bar chart represents the final amount of money each participant holds after 
 - **Color Intensity:** A color gradient is used to represent the amount of money; darker colors indicate higher amounts. This chart effectively illustrates the uneven distribution of wealth among participants, reflecting the randomness inherent in the simulation.
 
 ---
+
 ## 2. Money Changes Over Transactions for Top 5 and Bottom 5 People
 
 ![Money Changes for Top and Bottom 5 Participants](charts/top-and-bottom-five-financial-status.png)
