@@ -1,9 +1,6 @@
-# money-exchange-simulation
- A Python project simulating a money exchange game. Participants start with an initial amount and randomly give money to each other over a specified number of transactions. The simulation tracks changes in money distribution, visualizes results through charts and animations, and saves the final outcomes in a CSV file.
-
 # Money Exchange Simulation
 
-This project simulates a simple random money exchange game where a fixed number of people start with an initial amount of money and randomly exchange money with each other over a given number of transactions. The simulation tracks the changes in money distribution and visualizes the results through different plots and animations.
+ A Python project simulating a money exchange game. Participants start with an initial amount and randomly give money to each other over a specified number of transactions. The simulation tracks changes in money distribution, visualizes results through charts and animations, and saves the final outcomes in a CSV file.
 
 ## Project Features
 - Random money exchange between people.
