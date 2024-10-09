@@ -85,7 +85,7 @@ for transition in range(num_transactions):
         people[giver] -= 1
         people[receiver] += 1
 
- # Plot the initial and final distributions of money
+# Plot the initial and final distributions of money
 plot_money_distribution([initial_money] * num_people, 'Primary distribution of money')
 plot_money_distribution(people, 'Final distribution of money after simulation')
 
